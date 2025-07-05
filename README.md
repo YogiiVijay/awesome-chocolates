@@ -1,2 +1,2 @@
 # awesome-chocolates
-Data analysis project for the awesome chocolates database.
+The Data analysis project for the awesome chocolates database.
